@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Arithmetic_average_main" target="11" />
+      <module name="Problems-Arithmetic_average_test" target="11" />
+      <module name="Problems-Check_the_value_main" target="11" />
+      <module name="Problems-Check_the_value_test" target="11" />
+      <module name="Problems-Digits_from_0_to_9_in_a_single_line_main" target="11" />
+      <module name="Problems-Digits_from_0_to_9_in_a_single_line_test" target="11" />
+      <module name="Problems-Division_main" target="11" />
+      <module name="Problems-Division_test" target="11" />
+      <module name="Problems-Fill_the_declaration_main" target="11" />
+      <module name="Problems-Fill_the_declaration_test" target="11" />
+      <module name="Problems-First_digit_main" target="11" />
+      <module name="Problems-First_digit_test" target="11" />
+      <module name="Problems-Hello!_main" target="11" />
+      <module name="Problems-Hello!_test" target="11" />
+      <module name="Problems-Size_of_parts_main" target="11" />
+      <module name="Problems-Size_of_parts_test" target="11" />
+      <module name="Problems-The_count_of_numbers_divisible_by_N_main" target="11" />
+      <module name="Problems-The_count_of_numbers_divisible_by_N_test" target="11" />
+      <module name="Problems-The_forgotten_comments_main" target="11" />
+      <module name="Problems-The_forgotten_comments_test" target="11" />
+      <module name="Problems-The_Hello_World_program_main" target="11" />
+      <module name="Problems-The_Hello_World_program_test" target="11" />
+      <module name="Simple_Chatty_Bot-task_main" target="11" />
+      <module name="Simple_Chatty_Bot-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
